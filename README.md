@@ -6,7 +6,7 @@ Gruppmedlemmar:
 - Amina Hallam
 - Fredrik Olsson
 
-Projektarbete - Checkout-React
+Projektarbete - Checkout-React skapades först på den här Repositorie: https://github.com/FredrikOlssons/Systemutveckling_Ramverk
 
 Beskrivning av projeket
 I den här laborationen ska vi i grupp om tre skapa en hemsida i React och Typescript genererat med Vite. Hemsidan ska bestå av en startsida där alla produkter listas, en produktsida där en utvald produkt visas och en utcheckningssida där kunden har möjligheten att slutföra sitt köp. Applikationen kommer att kunna köras via NPM-run dev efter att en NPM-install har körts och kommer endast att köras lokalt. Vi skall använda Material UI som designsystem i er applikation där detta designsystem används på flertalet ställen i applikationen.
@@ -75,5 +75,3 @@ Installation & köra igång projektet:
 
 9.Mockade produkter ska ligga i en egen fil och vara typade med ett TS interface  ✅ 
 
-
-Länk till repositorie: https://github.com/FredrikOlssons/Systemutveckling_Ramverk
