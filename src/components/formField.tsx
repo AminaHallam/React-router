@@ -185,7 +185,7 @@ export const ValidationSchemaExample = () => {
                   </Alert>
                 </Snackbar> : <Snackbar open={open} autoHideDuration={3000} onClose={handleClose}>
                     <Alert onClose={handleClose} severity="warning" sx={{ width: '100%' }}>
-                        Var vänlig och fyll i samtliga information!
+                        Var vänlig och fyll i samtliga fält korrekt!
                     </Alert>
                 </Snackbar>
                 }
