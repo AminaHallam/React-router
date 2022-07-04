@@ -41,7 +41,7 @@ export default function AlertDialog() {
         </DialogTitle>
         <DialogContent>
           <DialogContentText id="alert-dialog-description">
-            Din order är bekräftad & kommer att packas och skickas inom kort! 
+            Din order är bekräftad. Den kommer att packas och skickas inom kort! 
           </DialogContentText>
         </DialogContent>
         <DialogActions>
